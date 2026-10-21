@@ -1,0 +1,112 @@
+#one{
+    background-color: rgb(75, 75, 226);
+    height: 200px;
+    width:1400px;
+    border-radius: 5%;
+    text-align: center;
+    margin: 30px 10px;
+}
+#two{
+     background-color: rgb(161, 161, 230);
+    height: 200px;
+    width:1400px;
+    border-radius: 5%;
+    text-align: center;
+    margin:30px 10px;
+}
+#imgtwo{
+    height: 200px;
+    width:200px;
+    border-radius: 50%;
+    float:inline-start;
+}
+#three{
+     background-color: rgb(52, 235, 15);
+    height: 400px;
+    width:1400px;
+    border-radius: 5%;
+    text-align: center;
+    margin:30px 10px;
+}
+.html{
+     background-color: rgb(78, 134, 255);
+    height: 200px;
+    width:200px;
+    border-radius: 5%;
+    text-align: center;
+    margin: 50px;
+    display:inline-block;
+}
+.css{   background-color: rgb(78, 134, 255);
+    height: 200px;
+    width:200px;
+    border-radius: 2%;
+    text-align: center;
+    margin: 50px;
+    display:inline-block;
+}
+.js{   background-color: rgb(197, 210, 240);
+    height: 200px;
+    width:200px;
+    border-radius: 2%;
+    text-align: center;
+    margin: 50px;
+    display:inline-block;
+}
+.react{   background-color: rgb(175, 195, 236);
+    height: 200px;
+    width:200px;
+    border-radius: 2%;
+    text-align: center;
+    margin: 50px;
+    display:inline-block;
+}
+hr{
+    color: blue;
+}
+img{
+    height: 100px;
+    width:100px;
+    border-radius: 2%;
+    float: inline-start;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+    font-size: larger;
+}
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aqua;
+    font-size: medium;
+}
+h3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: cadetblue;
+    font-size: small;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: smaller;
+}
+.four{
+    height: 200px;
+    width:1300px;
+    background-color: rgb(15, 239, 247);
+     border-radius: 2%;
+    text-align: center;
+    margin: 30px 10px;
+
+}
+.five{
+    height: 300px;
+    width:1300px;
+    background-color: rgb(62, 62, 212);
+     border-radius: 2%;
+    text-align: center;
+    margin: 30px 1opx;
+}
+.six{
+    
+}
